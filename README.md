@@ -20,4 +20,4 @@ To install the necessary software and dependencies, you can use a package manage
 
 ## License
 
-This repository is licensed under the MIT License. You are free to use, modify, and distribute the code in this repository, but please be aware of any third-party dependencies or licenses that may apply.
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code in this repository, but please be aware of any third-party dependencies or licenses that may apply.
